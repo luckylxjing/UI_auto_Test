@@ -1,0 +1,72 @@
+2024-07-04 12:08:01,472 INFO [root] [driver_utils.py:get_driver:20] - create chrome driver!
+2024-07-04 12:08:03,728 INFO [root] [test_1_login.py:test_login:36] - login in {} {} {}
+2024-07-04 12:08:06,845 INFO [root] [driver_utils.py:quit_driver:38] - chrome driver is still alive
+2024-07-04 12:08:06,848 INFO [root] [driver_utils.py:get_driver:25] - use existed chrome driver!
+2024-07-04 12:08:07,204 INFO [root] [test_cart.py:test_cart:37] - search with 小米手机5
+2024-07-04 12:08:12,524 INFO [root] [test_cart.py:test_cart:41] - with 5s for page display
+2024-07-04 12:08:15,558 INFO [root] [driver_utils.py:quit_driver:38] - chrome driver is still alive
+2024-07-04 12:08:15,563 INFO [root] [driver_utils.py:get_driver:25] - use existed chrome driver!
+2024-07-04 12:08:32,193 INFO [root] [driver_utils.py:quit_driver:38] - chrome driver is still alive
+2024-07-04 12:08:32,197 INFO [root] [driver_utils.py:get_driver:25] - use existed chrome driver!
+2024-07-04 12:08:32,223 INFO [root] [driver_utils.py:get_driver:25] - use existed chrome driver!
+2024-07-04 12:11:02,515 INFO [root] [driver_utils.py:get_driver:20] - create chrome driver!
+2024-07-04 12:11:07,805 INFO [root] [driver_utils.py:quit_driver:38] - chrome driver is still alive
+2024-07-04 12:11:07,809 INFO [root] [driver_utils.py:get_driver:25] - use existed chrome driver!
+2024-07-04 12:11:08,146 INFO [root] [test_cart.py:test_cart:37] - search with 小米手机5
+2024-07-04 12:11:13,448 INFO [root] [test_cart.py:test_cart:41] - with 5s for page display
+2024-07-04 12:11:16,473 INFO [root] [driver_utils.py:quit_driver:38] - chrome driver is still alive
+2024-07-04 12:11:16,480 INFO [root] [driver_utils.py:get_driver:25] - use existed chrome driver!
+2024-07-04 12:11:16,515 INFO [root] [driver_utils.py:get_driver:25] - use existed chrome driver!
+2024-07-04 12:11:16,536 INFO [root] [driver_utils.py:get_driver:25] - use existed chrome driver!
+2024-07-04 12:11:50,660 INFO [root] [driver_utils.py:get_driver:20] - create chrome driver!
+2024-07-04 12:11:52,889 INFO [root] [test_1_login.py:test_login:42] - wait 5s for page display
+2024-07-04 12:12:00,890 INFO [root] [driver_utils.py:quit_driver:38] - chrome driver is still alive
+2024-07-04 12:12:00,895 INFO [root] [driver_utils.py:get_driver:25] - use existed chrome driver!
+2024-07-04 12:12:01,215 INFO [root] [test_cart.py:test_cart:37] - search with 小米手机5
+2024-07-04 12:12:06,548 INFO [root] [test_cart.py:test_cart:41] - with 5s for page display
+2024-07-04 12:12:09,580 INFO [root] [driver_utils.py:quit_driver:38] - chrome driver is still alive
+2024-07-04 12:12:09,581 INFO [root] [driver_utils.py:get_driver:25] - use existed chrome driver!
+2024-07-04 12:12:23,001 INFO [root] [driver_utils.py:quit_driver:38] - chrome driver is still alive
+2024-07-04 12:12:23,005 INFO [root] [driver_utils.py:get_driver:25] - use existed chrome driver!
+2024-07-04 12:12:31,862 INFO [root] [driver_utils.py:quit_driver:38] - chrome driver is still alive
+2024-07-04 12:12:31,863 INFO [root] [driver_utils.py:get_driver:25] - use existed chrome driver!
+2024-07-04 12:12:31,998 INFO [root] [driver_utils.py:quit_driver:34] - quit chrome driver
+2024-07-04 12:13:36,066 INFO [root] [driver_utils.py:get_driver:20] - create chrome driver!
+2024-07-04 12:13:38,202 INFO [root] [test_1_login.py:test_login:42] - wait 5s for page display
+2024-07-04 12:13:46,285 INFO [root] [driver_utils.py:quit_driver:38] - chrome driver is still alive
+2024-07-04 12:13:46,292 INFO [root] [driver_utils.py:get_driver:25] - use existed chrome driver!
+2024-07-04 12:13:46,634 INFO [root] [test_cart.py:test_cart:37] - search with 小米手机5
+2024-07-04 12:13:51,946 INFO [root] [test_cart.py:test_cart:41] - with 5s for page display
+2024-07-04 12:13:54,982 INFO [root] [driver_utils.py:quit_driver:38] - chrome driver is still alive
+2024-07-04 12:13:54,984 INFO [root] [driver_utils.py:get_driver:25] - use existed chrome driver!
+2024-07-04 12:14:08,402 INFO [root] [driver_utils.py:quit_driver:38] - chrome driver is still alive
+2024-07-04 12:14:08,407 INFO [root] [driver_utils.py:get_driver:25] - use existed chrome driver!
+2024-07-04 12:14:17,238 INFO [root] [driver_utils.py:quit_driver:38] - chrome driver is still alive
+2024-07-04 12:14:17,238 INFO [root] [driver_utils.py:get_driver:25] - use existed chrome driver!
+2024-07-04 12:14:17,377 INFO [root] [driver_utils.py:quit_driver:34] - quit chrome driver
+2024-07-04 12:15:36,514 INFO [root] [driver_utils.py:get_driver:20] - create chrome driver!
+2024-07-04 12:15:38,751 INFO [root] [test_1_login.py:test_login:42] - wait 5s for page display
+2024-07-04 12:15:46,765 INFO [root] [driver_utils.py:quit_driver:38] - chrome driver is still alive
+2024-07-04 12:15:46,770 INFO [root] [driver_utils.py:get_driver:25] - use existed chrome driver!
+2024-07-04 12:15:47,120 INFO [root] [test_cart.py:test_cart:37] - search with 小米手机5
+2024-07-04 12:15:52,430 INFO [root] [test_cart.py:test_cart:41] - with 5s for page display
+2024-07-04 12:15:55,477 INFO [root] [driver_utils.py:quit_driver:38] - chrome driver is still alive
+2024-07-04 12:15:55,482 INFO [root] [driver_utils.py:get_driver:25] - use existed chrome driver!
+2024-07-04 12:16:08,920 INFO [root] [driver_utils.py:quit_driver:38] - chrome driver is still alive
+2024-07-04 12:16:08,924 INFO [root] [driver_utils.py:get_driver:25] - use existed chrome driver!
+2024-07-04 12:16:17,744 INFO [root] [driver_utils.py:quit_driver:38] - chrome driver is still alive
+2024-07-04 12:16:17,745 INFO [root] [driver_utils.py:get_driver:25] - use existed chrome driver!
+2024-07-04 12:16:17,888 INFO [root] [driver_utils.py:quit_driver:34] - quit chrome driver
+2024-07-04 12:23:13,285 INFO [root] [driver_utils.py:get_driver:20] - create chrome driver!
+2024-07-04 12:23:16,916 INFO [root] [test_1_login.py:test_login:42] - wait 5s for page display
+2024-07-04 12:23:24,929 INFO [root] [driver_utils.py:quit_driver:38] - chrome driver is still alive
+2024-07-04 12:23:24,934 INFO [root] [driver_utils.py:get_driver:25] - use existed chrome driver!
+2024-07-04 12:23:25,268 INFO [root] [test_cart.py:test_cart:37] - search with 小米手机5
+2024-07-04 12:23:30,574 INFO [root] [test_cart.py:test_cart:41] - with 5s for page display
+2024-07-04 12:23:33,614 INFO [root] [driver_utils.py:quit_driver:38] - chrome driver is still alive
+2024-07-04 12:23:33,618 INFO [root] [driver_utils.py:get_driver:25] - use existed chrome driver!
+2024-07-04 12:23:47,044 INFO [root] [driver_utils.py:quit_driver:38] - chrome driver is still alive
+2024-07-04 12:23:47,045 INFO [root] [driver_utils.py:get_driver:25] - use existed chrome driver!
+2024-07-04 12:23:55,864 INFO [root] [driver_utils.py:quit_driver:38] - chrome driver is still alive
+2024-07-04 12:23:55,865 INFO [root] [driver_utils.py:get_driver:25] - use existed chrome driver!
+2024-07-04 12:23:55,983 INFO [root] [driver_utils.py:quit_driver:34] - quit chrome driver
